@@ -1,0 +1,4 @@
+```Ruby
+class Lasagna
+end
+```
